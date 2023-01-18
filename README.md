@@ -4,13 +4,13 @@
 👨‍💻 All my projects are available at github.com/Wallacessousa<br>
 💬 Get your questions answered about HTML, CSS, JS, and UX<br>
 ⚡ Curiosity, I'm down to earth and fun<br>
-
+<!--
 <div>  
   <img  height="140em" src="https://github-readme-stats.vercel.app/api?username=Wallacessousa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img align="right" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wallacessousa&layout=compact&langs_count=16&theme=dark"/>
 </div>
 <br>
-
+-->
 
 
 <div  align="center"> 
