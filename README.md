@@ -4,13 +4,13 @@
 👨‍💻 All my projects are available at github.com/Wallacessousa<br>
 💬 Get your questions answered about HTML, CSS, JS, and UX<br>
 ⚡ Curiosity, I'm down to earth and fun<br>
-<!--
+
 <div>  
   <img  height="140em" src="https://github-readme-stats.vercel.app/api?username=Wallacessousa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img align="right" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wallacessousa&layout=compact&langs_count=16&theme=dark"/>
 </div>
 <br>
--->
+
 
 
 <div  align="center"> 
@@ -37,7 +37,7 @@
     <a href = "https://www.youtube.com/channel/UC-ep9ynGnF4ia_l4yNvg91A">
       <img width="35" src="youtube.svg">
     </a>
-    <a href = "https://instagram.com/thewall.pro/">
+    <a href = "#">
       <img width="25" src="instagram.png">
     </a>
 </div>
