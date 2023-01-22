@@ -4,23 +4,20 @@
 👨‍💻 All my projects are available at github.com/Wallacessousa<br>
 💬 Get your questions answered about HTML, CSS, JS, and UX<br>
 ⚡ Curiosity, I'm down to earth and fun<br>
-<!--
-<div>  
-  <img  height="140em" src="https://github-readme-stats.vercel.app/api?username=Wallacessousa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img align="right" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wallacessousa&layout=compact&langs_count=16&theme=dark"/>
-</div>
-<br>
--->
+
+<div  align="center"> 
+  <div style="display: inline_block"><br>
+    <h1 align="center">Technologies I know 🧑‍💻🛠️</h1>    
+    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" height="auto" width="40" alt="css-icon" src="https://user-images.githubusercontent.com/119711762/213926616-6ec6aad9-9684-4b27-857d-42e8f7daaa0c.png">
 
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
-    <h1 align="center">Melhores Tecnologias</h1>
+    <h1 align="center">Technologies I'm learning 📚</h1>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height="30" width="40" alt="python-icon" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg">
       
    </div>
